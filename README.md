@@ -29,7 +29,7 @@ When you start the PC Store application, you will be presented with a menu that 
 * Add new products to the inventory.
 * View sales data.
 
-##Contributing
+## Contributing
 We welcome contributions to the PC Store application! If you would like to contribute, please follow these steps:
 
 * Fork this repository.
