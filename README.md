@@ -21,8 +21,6 @@ When you start the PC Store application, you will be presented with a menu that 
 ### Customer Features
 * Browse products by category.
 * View detailed information about each product.
-* Add products to your cart.
-* View your cart and checkout.
 
 ### Administrator Features
 * View the product inventory.
